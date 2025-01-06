@@ -1,10 +1,10 @@
 # restaurant-assistance-backend
-Application to avoid awkward situations in front of random public while asking for waiter
+Application to avoid awkward situations in front of the random public while asking for a waiter
 
 Backend Repository Structure
 
 restaurant-assistance-backend/
-├── app/
+├── app/ 
 │   ├── __init__.py
 │   ├── main.py
 │   ├── core/
